@@ -7,7 +7,7 @@ def island_perimeter(grid):
     The grid represents water by 0 and land by 1
 
     Args:
-        grid(list): A list of integers representing an island.
+        grid (list): A list of integers representing an island.
     Returns:
         The perimeter of the island defined in grid.
     """
